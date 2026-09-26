@@ -3,7 +3,10 @@ Target Belajar backand
 - Perkuat java dasar
       -if else dan nested if
       -looping
+       -> Forloop, while loop dan do while loop
       -switch case
       -Try catch
       -array, List dan Map
       -Logika aritmatika
+      -operator komparasi
+-bisa membuat sistem admin sederhana
