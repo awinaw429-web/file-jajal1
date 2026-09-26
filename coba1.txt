@@ -1,9 +1,9 @@
 Target Belajar backand
 - Konsisten latihan
 - Perkuat java dasar
-      -jenis data
       -if else dan nested if
       -looping
       -switch case
       -Try catch
       -array, List dan Map
+      -Logika aritmatika
