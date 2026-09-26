@@ -5,3 +5,5 @@ Target Belajar backand
       -if else dan nested if
       -looping
       -switch case
+      -Try catch
+      -array, List dan Map
