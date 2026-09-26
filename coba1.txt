@@ -7,3 +7,5 @@ Target Belajar backand
       -Try catch
       -array, List dan Map
       -Logika aritmatika
+      -operator komparasi
+-bisa membuat sistem admin sederhana
